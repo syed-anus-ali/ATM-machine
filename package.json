@@ -1,6 +1,6 @@
 {
-  "name": "mt-development-satm-machine",
-  "version": "1.0.0",
+  "name": "my-development-atm-machine",
+  "version": "1.0.1",
   "description": "Automated teller machine",
   "main": "index.js",
   "type": "module",
